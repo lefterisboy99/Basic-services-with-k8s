@@ -105,6 +105,7 @@ kubectl apply -f ask2_2.yaml
         cp ./html/public/* /script -R
 
 gia na do an egine completed ekana to kubectl describe job ask22 kai m evgale afto
+
     Name:             ask22
     Namespace:        default
     Selector:         controller-uid=515548c3-e09d-45cb-9cad-4e597adca345
