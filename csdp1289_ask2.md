@@ -64,6 +64,7 @@ Askisi 2
 
 kubectl apply -f ask2_2.yaml
 
+
     apiVersion: batch/v1
     kind: Job
     metadata:
